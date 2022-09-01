@@ -1,5 +1,7 @@
-# Maindeck
+# Hey, this is us!
 
-Empowering the ship manager through the entire dry-docking process
+Maindeck is empowering the ship manager through the entire dry-docking process. 
 
-https://maindeck.io
+Read more on our website https://maindeck.io
+
+Want to try it out ? Ask for a demo!
